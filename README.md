@@ -6,8 +6,7 @@ In order to deploy the application you will need to install the following packag
 
 —VirtualBox (https://www.virtualbox.org/) Available  for most platforms
 
-Once you install VirtualBox and Vagrant, you will need to change directory to the attached project. Assuming you have unzipped the project in your home directory you would type:
-$ cd ~/sql
+Once you install VirtualBox and Vagrant, download sample and cd to the project.  
 
 Then all you need to type is: $ vagrant up
 
